@@ -9,7 +9,7 @@ Introduced to Javascript don't really understand it but I will wait for the next
 
 ## Week 3
 
-
+Trouble in the team, certain members are not willing to compromise. Presentations of the de - makes for the NES went well. The wiki is going really well, my plan of adding 200 words on different topics is working effectively. Still don't understand where to start with the Javascript game. Decided on my research topic; the influence decision trees have on the player.
 
 ## Week 4
 
