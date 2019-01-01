@@ -1,7 +1,7 @@
 # Comp330-CPD
 ## Week 1
 
-
+The start of university, my team have decided on a game to start prototyping and all the modules have been introduced.
 
 ## Week 2
 
