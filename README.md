@@ -29,7 +29,7 @@ I've stopped working on the Javascript game in order to work on the NES game tha
 
 ## Week 8
 
-
+Research presentations went well. I've had to stop working on the NES game and start working on my dissertation proposal so I can finish it in time for hand in.
 
 ## Week 9
 
