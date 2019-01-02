@@ -21,7 +21,7 @@ Started prototyping a new game. I've really struggled with this Javascript assig
 
 ## Week 6
 
-
+Studio practise week. I'm trying to get the Javascript game finished as well as the technical poster for the game.
 
 ## Week 7
 
