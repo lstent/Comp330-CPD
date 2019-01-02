@@ -33,7 +33,7 @@ Research presentations went well. I've had to stop working on the NES game and s
 
 ## Week 9
 
-
+Stopped working on everything apart from dissertation proposal.
 
 ## Week 10
 
