@@ -13,7 +13,7 @@ Trouble in the team, certain members are not willing to compromise. Presentation
 
 ## Week 4
 
-
+The team has split because of different opinions in work ethic and we have to start on a new game. I had to ask Gareth how and where to start the Javascript game. I'm enjoying the NES assembly programming.
 
 ## Week 5
 
