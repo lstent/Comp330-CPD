@@ -25,7 +25,7 @@ Studio practise week. I'm trying to get the Javascript game finished as well as 
 
 ## Week 7
 
-
+I've stopped working on the Javascript game in order to work on the NES game that I haven't touched in weeks, eventhough the NES game is worth more (percentage wise) of its module. I've also had to start preparing a presentation about my research project that I haven't done work on for ages as well. Technical poster and Javascript game presentation went well considering I really struggled to do it.
 
 ## Week 8
 
