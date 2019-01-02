@@ -37,7 +37,7 @@ Stopped working on everything apart from dissertation proposal.
 
 ## Week 10
 
-
+Spent the week only working on the dissertation proposal it's finished now though. Managed to do a bit of work on the group game for this sprint.
 
 ## Week 11
 
