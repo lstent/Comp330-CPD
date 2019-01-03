@@ -17,7 +17,7 @@ The team has split because of different opinions in work ethic and we have to st
 
 ## Week 5
 
-Started prototyping a new game. I've really struggled with this Javascript assignment, every time I look up the solution to a problem online it doesn't work in my project. I've done nothing for the NES game in ages but I have finnished the ethics form (with Rorys help) for the research proposal.
+Started prototyping a new game. I've really struggled with this Javascript assignment, every time I look up the solution to a problem online it doesn't work in my project. I've done nothing for the NES game in ages but I have finished the ethics form (with Rorys help) for the research proposal.
 
 ## Week 6
 
