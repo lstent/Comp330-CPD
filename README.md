@@ -41,6 +41,7 @@ Spent the week only working on the dissertation proposal it's finished now thoug
 
 ## Week 11
 
-
+Data interpretation lecture with Al was really useful. I spent everyday in the studio from 9am to 8pm working on the group game putting the whole of the game UI and narrative in. The BA developers aren't showing up, more so than usual.
 
 ## Week 12
+
