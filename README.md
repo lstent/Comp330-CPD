@@ -5,7 +5,7 @@ The start of university, my team have decided on a game to start prototyping and
 
 ## Week 2
 
-Introduced to Javascript don't really understand it but I will wait for the next lesson to see if it helps. Learnt about the 6502 and shown the wiki we need to start adding too, I will add 200 words on a different topic within the wiki everyday until its due. Started thinkiing of a research topic, maybe something to do with choices in digital games.
+Introduced to Javascript don't really understand it but I will wait for the next lesson to see if it helps. Learnt about the 6502 and shown the wiki we need to start adding too, I will add 200 words on a different topic within the wiki everyday until its due. Started thinking of a research topic, maybe something to do with choices in digital games.
 
 ## Week 3
 
