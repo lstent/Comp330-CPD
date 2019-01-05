@@ -45,4 +45,4 @@ Data interpretation lecture with Al was really useful. I spent everyday in the s
 
 ## Week 12
 
-In the studio from 9am ubtil 8pm trying to get the game prototype finished. Still no sign of BA developers the game is really behind schedule with art/ animation/ design. None of the other members of the group know anything about the game anymore because of how much work I have been putting in. Loads of bugs have been found last minute becasue the game has not been playtested by anyone but me and I have too much work to doeverything by myself. I am amazingly stressed and frustrated with the lack of motivation with my team.
+In the studio from 9am until 8pm trying to get the game prototype finished. Still no sign of BA developers the game is really behind schedule with art/ animation/ design. None of the other members of the group know anything about the game anymore because of how much work I have been putting in. Loads of bugs have been found last minute because the game has not been play tested by anyone but me and I have too much work to do everything by myself. I am amazingly stressed and frustrated with the lack of motivation with my team.
